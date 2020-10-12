@@ -41,11 +41,11 @@ As seen from the results, Denver takes the overwhelming majority of the votes ca
 
 There are 3 candidates in this election.
 
-1.) Charles Casper Stockham
-
-2.) Diana DeGette
-
-3.) Raymon Anthony Doane
+  1.) Charles Casper Stockham
+  
+  2.) Diana DeGette
+  
+  3.) Raymon Anthony Doane
 
 Charles Casper Stockham received 23% of the vote with 85,213 votes casted for him.
 
@@ -64,5 +64,16 @@ The script outputs all of the details above into a txt file that is easily readi
 
 ## Election Audit Summary
 
-This script can be very easily adjusted to accommodate other elections with some very simple changes.
+This script can be very easily adjusted to accommodate other elections with some a few changes. This example is rather simple with just 3 data points of the candidate name, county voted in, and the ballot id. There can be additional categories such as which political party the voter is registered for and which candidate has been endorsed by which political party.
+
+To do this we need to create a few more additional lists to store the political party name and which political party is endorsing which candidate. To create the new list for political party I will use this code:
+```
+  political_party = ""
+```
+Than same as before with before in checking if there is a duplicate of the political party in the list I will use this code:
+```
+  if pol_par not in political_party
+    political_party.append(pol_par)
+```
+
 
