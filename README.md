@@ -9,7 +9,7 @@ Audit the election results and provide the results in a readable format.
 ### County Turnout
 This election had 3 candidates running with a total vote count of 369,711 through all 3 of the counties. The data set that was received looks like this:
 
-<img src="https://github.com/Changscorner/Election_Analysis/blob/main/Resources/data.png"
+<img src="https://github.com/Changscorner/Election_Analysis/blob/main/Resources/data.png">
 
 Taking a look at this data we can see that there are  3 candidates total with 3 counties. With this information I know I have to create a few lists of dictionaries to fill in with the candidate name, county voted in, and the total amount of votes received by the candidate.
 
@@ -57,7 +57,7 @@ Diana DeGette is the clear winner of this election with a vast lead over the oth
 
 The script outputs all of the details above into a txt file that is easily readible.
 
-<img src="https://github.com/Changscorner/Election_Analysis/blob/main/Resources/election%20results.png"
+<img src="https://github.com/Changscorner/Election_Analysis/blob/main/Resources/election%20results.png">
 
 
 ## Election Audit Summary
