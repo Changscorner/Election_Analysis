@@ -41,9 +41,11 @@ As seen from the results, Denver takes the overwhelming majority of the votes ca
 
 There are 3 candidates in this election.
 
-  1.) Charles Casper Stockham
-  2.) Diana DeGette
-  3.) Raymon Anthony Doane
+1.) Charles Casper Stockham
+
+2.) Diana DeGette
+
+3.) Raymon Anthony Doane
 
 Charles Casper Stockham received 23% of the vote with 85,213 votes casted for him.
 
