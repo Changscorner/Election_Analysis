@@ -55,9 +55,12 @@ Raymon Anthony Doane received 3.1% of the vote with 11,606 votes casted for him.
 
 Diana DeGette is the clear winner of this election with a vast lead over the other 2 candidates.
 
-The 
+The script outputs all of the details above into a txt file that is easily readible.
+
+<img src="https://github.com/Changscorner/Election_Analysis/blob/main/Resources/election%20results.png"
+
 
 ## Election Audit Summary
 
-This script can be very easily adjusted to accommodate other elections with some very simple changes. 
+This script can be very easily adjusted to accommodate other elections with some very simple changes.
 
